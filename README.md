@@ -2,7 +2,8 @@
 
 **✨ **Welcome to my corner of the digital world!**
 
-I'm **Evan**, and this profile is a glimpse into my journey as a Junior Data Scientist.
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
 
 ---
 
@@ -26,7 +27,7 @@ Hello! I'm Evan, a recent graduate in Data Science and Machine Learning. I love 
 
 - **Languages:** Python, SQL
 - **Frameworks / Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tensorflow
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MySQL
 - **Design / Visualization:** PowerBI, Tableau
 
 ### 📊 What I'm currently working on
