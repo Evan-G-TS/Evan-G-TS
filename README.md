@@ -1,9 +1,6 @@
 # 👋 Hey there, I'm Evan!
 
-**✨ **Welcome to my corner of the digital world!**
-
-📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+**✨ **Welcome to my corner of the digital world, where I showcase my projects.!**
 
 ---
 
