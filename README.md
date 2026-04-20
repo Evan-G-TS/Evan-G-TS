@@ -32,7 +32,7 @@ Hello! I'm Evan, a recent graduate in Data Science and Machine Learning. I love 
 
 ### 📊 What I'm currently working on
 
-- 1) Content-based Recommender System – [Recommender System](https://github.com/Evan-G-TS/Content-Based-Movie-Recommender-System)
+1) Content-based Recommender System – [Recommender System](https://github.com/Evan-G-TS/Content-Based-Movie-Recommender-System)
 
 ---
 
