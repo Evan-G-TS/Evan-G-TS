@@ -6,17 +6,9 @@
 
 ## 🙋🏻‍♀️ About Me
 
-Hello! I'm Evan, a recent graduate in Data Science and Machine Learning. I love solving problems and building things that are useful.
+Hello! I'm Evan, a recent graduate in Data Science and Machine Learning. Currently building expertise in SQL, Python, PowerBI, in order to unlock value from data structures. I love solving problems and building things that are useful.
 
-- **Passion**: Aspiring Data Scientist currently building expertise in SQL, Python, PowerBI, in order to unlock value from data structures
-- **Growth**: Continuously learning and exploring new technologies
-- **Collaboration**: Open to open-source contributions and research collaborations
-- **Focus**: Building innovative solutions and solving complex problems
-- **Beyond Code**: Technology, innovation, and continuous improvement
-
-
-
-- 🔍 I’m currently learning: Recommender systems
+- 🔍 I’m currently learning: Recommender Systems
 - ⚡ Fun fact: I talk to my databases. They don't talk back, but they do run faster!
 - 🎯 2026 goal: Build a portfolio website
 
@@ -55,4 +47,4 @@ Hello! I'm Evan, a recent graduate in Data Science and Machine Learning. I love 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Evan-G-TS&theme=tokyonight&hide_border=false)
 
 ---
-*"Building the future, one line of code at a time."*
+*"Journey before destination!"*
